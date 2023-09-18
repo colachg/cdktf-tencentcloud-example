@@ -1,0 +1,11 @@
+{
+  "language": "typescript",
+  "app": "npx ts-node main.ts",
+  "projectId": "2eb0e744-fe3e-4f88-a8b4-bc5061861792",
+  "sendCrashReports": "true",
+  "terraformProviders": [
+    "tencentcloudstack/tencentcloud@~> 1.81"
+  ],
+  "terraformModules": [],
+  "context": {}
+}
